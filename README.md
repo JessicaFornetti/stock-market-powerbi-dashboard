@@ -33,10 +33,15 @@ Scatter plot displaying each day's trading activity per company, plotting the da
 
 ![Page 7](Screenshot%207.png)
 
-
+The same scatter plot displaying each day's trading activity with only Amazon selected.
 
 ![Page 8](Screenshot%208.png)
+
+Small multiples line chart displaying the average monthly return for each company across each months, allowing for a visual comparison of their monthly performance trends.
+
 ![Dashboard](Full%20Dashboard.png)
+
+Full dashboard merging each of the individual visuals, offering a comprehensive overview of the stock market analysis for the major tech companies.
 
 # Repository Overview
 This repository contains a [PowerBi file](stockmarket.pbix) used to create the report and dashboard above, screenshots of each report page and a [screenshot of the full dashboard](Full%20Dashboard.png).
